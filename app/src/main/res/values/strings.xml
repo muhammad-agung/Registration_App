@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">Registration App</string>
+    <string name="welcome">welcome to android studio!</string>
+    <string name="button2">button 2</string>
+    <string name="title">Registration form</string>
+    <string name="title2">Welcome to Adventure Learning Club!</string>
+    <string name="fullname">Full Name</string>
+    <string name="lastname">Last Name</string>
+    <string name="firstname">First Name</string>
+    <string name="gender">Gender</string>
+    <string name="male">Male</string>
+    <string name="female">Female</string>
+    <string name="studentid">Student ID</string>
+    <string name="school">School</string>
+    <string name="email">E-mail</string>
+    <string name="phone">Phone</string>
+
+</resources>
