@@ -14,5 +14,6 @@
     <string name="school">School</string>
     <string name="email">E-mail</string>
     <string name="phone">Phone</string>
+    <string name="register">Register</string>
 
 </resources>
